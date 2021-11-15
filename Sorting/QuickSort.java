@@ -5,6 +5,7 @@ public class test{
     int [] arr={2,1,0,1,4,5,8,52};
 	quickSort(arr,0,arr.length-1);
 	printArr(arr);
+	 System.out.println("hello");
  
  }
  public static void quickSort(int[] arr,int low,int high){
